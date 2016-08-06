@@ -1,3 +1,5 @@
+This is a package from socieboy/chat I modified this repository dont use acctually I making modifictions this actually, please fork from the socieboy/chat :)
+
 Deprecated
 
 # Laravel Chat
