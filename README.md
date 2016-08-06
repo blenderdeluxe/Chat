@@ -1,4 +1,4 @@
-This is a package from socieboy/chat I modified this repository dont use acctually I making modifictions this actually, please fork from the socieboy/chat :)
+This is a package from socieboy/chat I modified this repository dont use actually I making modifications actually, please fork from the socieboy/chat :)
 
 Deprecated
 
