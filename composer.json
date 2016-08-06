@@ -1,6 +1,6 @@
 {
-    "name": "socieboy/chat",
-    "description": "Laravel Chat",
+    "name": "blenderdeluxe/chat",
+    "description": "Laravel Chat modified from socieboy/chat",
     "type": "Package",
     "license": "MIT",
     "authors": [
